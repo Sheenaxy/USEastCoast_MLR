@@ -1,5 +1,5 @@
 # ECOA1 Cruise multiple linear regression (MLR) model
- This folder contains the MLR model of carboante parameters (DIC, pH, and Omega) based on GOMECC2 cruise data in the MAB and the SAB region.
+ This folder contains the MLR model of carboante parameters (DIC, pH, and Omega) based on ECOA1 cruise data in the MAB and the SAB region.
  This is the model results published in [DOI] (link to be updated)
  
  # User instrucition
