@@ -13,9 +13,9 @@
 
 # Example code
 ```Matlab
-%Eample
+%Example
 %Load your own data (Temperature, Salinity and Oxygen concentration)
-%Data limitation： below mixed layer(20m) and above 1000m
+%Data limitation： below mixed layer (~20 m) and above 1000 m
 Rawdata = load('ExampleTSO.mat');
 %Centralized data
 load('mean_MAB.mat');
