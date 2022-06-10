@@ -6,7 +6,7 @@ Both SAB and MAB MLR models of each individual cruises locate in each cruise fol
 The composite folder is a more concise and explicit solution to the regional model for a decadal period.
 
 # User instruction
-Please check the readme file in each folder
+Please check the readme.md file and example code in the composite model file
 
 # Questions:
 Please contact: xinyuli@udel.edu
