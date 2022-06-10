@@ -3,13 +3,13 @@
  This is the model results published in [DOI] (link to be updated)
  
  # User instrucition
- 1.To load this MATLAB mld, please use function 'loadLearnerForCoder'.
+ 1.To load this MATLAB built-in function, please use function 'loadLearnerForCoder'.
  
  2. Load your own data to the Workspace
  
  3. Centralize your own Temp, Sal and Oxy data by substracting the mean hydrographic data (Tm, Sm and Om);
  
- 4. Use function 'predict' to apply the centralized data into the MLR model
+ 4. Use built-in function 'predict' to apply the centralized data into the MLR model
 
 # Example code
 ```Matlab
